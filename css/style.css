@@ -1,0 +1,79 @@
+
+body {
+  margin: 0;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: #f4f4f4;
+  color: #333;
+}
+.card {
+  max-width: 480px;
+  margin: 20px auto;
+  background: white;
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  overflow: hidden;
+}
+.header {
+  background-color: #004080;
+  color: white;
+  text-align: center;
+  padding: 1.2em;
+}
+.header h1 {
+  margin: 0;
+  font-size: 1.6em;
+}
+.avatar {
+  width: 120px;
+  height: 120px;
+  border-radius: 50%;
+  object-fit: cover;
+  margin: -60px auto 10px;
+  border: 5px solid white;
+  display: block;
+}
+.section {
+  padding: 1.2em;
+  text-align: center;
+}
+.section p {
+  margin: 0.3em 0;
+}
+.buttons a {
+  display: inline-block;
+  margin: 0.4em;
+  padding: 0.6em 1em;
+  background-color: #004080;
+  color: white;
+  text-decoration: none;
+  border-radius: 8px;
+  font-size: 0.95em;
+}
+.qr {
+  text-align: center;
+  padding: 1em;
+}
+.footer {
+  font-size: 0.8em;
+  color: #777;
+  text-align: center;
+  padding: 1em;
+}
+.tagline {
+  display: flex;
+  justify-content: center;
+  gap: 15px;
+  padding-top: 0.5em;
+}
+.tagline div {
+  font-size: 0.75em;
+  background: #e0f0ff;
+  padding: 0.4em 0.8em;
+  border-radius: 20px;
+}
+@media (max-width: 500px) {
+  .buttons a {
+    display: block;
+    margin: 0.5em auto;
+  }
+}
