@@ -1,66 +1,107 @@
-# TarjetaDigital
-Proyecto en HTML/CSS responsive que permite a emprendedores y negocios compartir su información de contacto de forma rápida, elegante y funcional. Incluye avatar, enlaces a redes sociales, botón de WhatsApp, ubicación en Google Maps, código QR, formulario de contacto y más.
+# 💼 Tarjeta Digital Profesional — Tiendas Lucho
 
-Claro, aquí tienes ambas versiones:
-
----
-
-### 🧾 **Descripción breve para GitHub (README):**
-
-> **Tarjeta Digital Profesional – Tiendas Lucho**
-> Proyecto en HTML/CSS responsive que permite a emprendedores y negocios compartir su información de contacto de forma rápida, elegante y funcional. Incluye avatar, enlaces a redes sociales, botón de WhatsApp, ubicación en Google Maps, código QR, formulario de contacto y más.
-> Ideal para alojar en GitHub Pages, servidores web o compartir como enlace directo.
+**Tarjeta digital responsive en HTML/CSS** diseñada especialmente para emprendedores, negocios locales y profesionales que desean compartir su información de forma rápida, elegante y eficaz desde cualquier dispositivo (móvil, tablet o computadora).
 
 ---
 
-### 📢 **Descripción completa para promocionar en redes sociales (optimizada para SEO):**
+## 🚀 ¿Qué es esto?
 
-> 🚀 **Lleva tu presencia digital al siguiente nivel con la Tarjeta Digital Profesional de Tiendas Lucho**
-> ¿Tienes un emprendimiento, un negocio local o prestas servicios profesionales? Esta **tarjeta digital** es la solución ideal para compartir tu información de contacto de forma moderna, rápida y elegante, desde cualquier dispositivo 📱💻
-> Diseñada especialmente para **negocios electrónicos, desarrolladores, freelancers y emprendedores**, es una herramienta práctica, atractiva y **ecoamigable**, lista para personalizar y compartir.
+Una **tarjeta digital personalizable** que puedes alojar en tu propio dominio, en GitHub Pages o en cualquier servidor web. Incluye todos los elementos esenciales para que tu cliente o prospecto te contacte con solo un clic.
 
 ---
 
-🔹 **¿Qué incluye la Tarjeta Digital de Tiendas Lucho?**
-✅ Diseño profesional adaptable a móviles, tablets y computadoras.
-✅ Avatar personalizado o logo de tu marca.
-✅ Botones de contacto directo: WhatsApp, llamada, correo electrónico.
-✅ Enlaces a tus redes sociales (Facebook, Instagram, LinkedIn, TikTok).
-✅ Ubicación en Google Maps integrada.
-✅ Acceso a tu página web o catálogo.
-✅ Código QR para compartir en segundos.
-✅ Formulario para que tus clientes te dejen mensajes o consultas.
-✅ Sin necesidad de impresión: siempre actualizada y amigable con el medio ambiente ♻️
+## ✨ Características principales
+
+- ✅ **Diseño responsive y moderno** (móvil, tablet y PC).
+- ✅ **Avatar o logo circular** del titular o negocio.
+- ✅ **Encabezado con nombre de la marca o empresa.**
+- ✅ **Botones de contacto directo**:
+  - WhatsApp con click directo 📱
+  - Correo electrónico ✉️
+  - Llamada 📞
+  - Redes sociales: Facebook, Instagram, TikTok, LinkedIn
+  - Ubicación en Google Maps 📍
+  - Catálogo o página web externa 🛍️
+- ✅ **Formulario de contacto integrado** (envío por correo vía `mailto:`).
+- ✅ **Código QR dinámico** para compartir fácilmente la tarjeta.
+- ✅ **Sección de servicios** o descripción de tu propuesta de valor.
+- ✅ **Mensajes visuales de impacto**: ecoamigable, sin necesidad de impresión, siempre actualizada.
 
 ---
 
-🎨 **Estilo visual:**
+## 🧱 Estructura del proyecto
 
-* Paleta de color elegante (azul oscuro como color corporativo).
-* Tipografía clara, iconografía amigable y estructura ordenada.
-* Optimizada para SEO y rápida carga en cualquier navegador.
-
----
-
-🌐 **Ideal para promocionar en:**
-
-* Instagram Bio 🔗
-* Perfil de WhatsApp Business
-* Página de Facebook
-* Firma de correos electrónicos
-* Anuncios en Google o redes sociales
+```
+tiendas-lucho/
+├── index.html              # Página principal
+├── css/
+│   └── style.css           # Estilos personalizados
+├── img/
+│   └── (avatar o logo)     # Carpeta para imágenes personalizadas
+├── js/
+│   └── (opcional)          # Carpeta lista para scripts interactivos
+```
 
 ---
 
-📦 **¿Qué obtienes al adquirirla?**
-Un archivo .zip profesional con estructura organizada (HTML, CSS, carpetas de imágenes y scripts) listo para subir a tu dominio o usar en GitHub Pages.
+## 📷 Vista previa
+
+![Demo](./img/demo-preview.png)
 
 ---
 
-💡 **¿Listo para destacar tu negocio?**
-¡Solicita tu tarjeta digital personalizada hoy mismo y comparte tu contacto como un verdadero profesional!
-\#TarjetaDigital #ContactoProfesional #Emprendedores #TiendasLucho #SEO #MarketingDigital #HTMLResponsive #DesarrolloWeb
+## 🌐 Cómo usar esta tarjeta
+
+1. Descarga el repositorio o clónalo:
+   ```bash
+   git clone https://github.com/tu-usuario/tiendas-lucho.git
+   ```
+
+2. Abre `index.html` en tu navegador para ver la demo local.
+
+3. Personaliza los datos:
+   - Nombre, logo, links de contacto, descripción y colores.
+
+4. Súbelo a:
+   - GitHub Pages
+   - Netlify / Vercel
+   - Tu propio dominio o servidor de hosting
 
 ---
 
-¿Te gustaría que también cree un post gráfico o video reel para acompañar esta publicación?
+## 💡 Ideal para
+
+- Profesionales independientes y freelancers
+- Negocios locales o tiendas físicas
+- Startups y emprendimientos digitales
+- Promoción de servicios por WhatsApp Business, Instagram Bio, firmas de correo y más
+
+---
+
+## 📈 Beneficios
+
+- ✅ Mejora tu imagen profesional
+- ✅ Aumenta el alcance de tus servicios
+- ✅ Comparte tu contacto en segundos
+- ✅ Ahorra en impresión y papelería
+- ✅ Compatible con SEO y marketing digital
+
+---
+
+## 📬 ¿Deseas una versión personalizada?
+
+Puedes contactarme para generar una tarjeta digital única para tu marca. También se ofrecen versiones avanzadas con:
+- Formularios dinámicos (con backend en Google Sheets o PHP)
+- Base de datos de contactos
+- Integración con APIs de WhatsApp Business, Calendly, etc.
+
+---
+
+## 🧑‍💻 Autor
+
+Desarrollado por **Tiendas Lucho**  
+📧 [tiendaslucho@gmail.com](mailto:tiendaslucho@gmail.com)  
+<!-- 🌐 [https://luchoservicios.com](https://luchoservicios.com) -->
+
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white)](https://wa.me/59172698986)
+[+591 72698986](https://wa.me/59172698986)
